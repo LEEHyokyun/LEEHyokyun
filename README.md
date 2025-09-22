@@ -1,7 +1,4 @@
-# 벼는 익을수록 고개를 숙인다.
-# 안주하지 않는 개발자, 이효균입니다.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleehyokyun&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+# SEE YOU SOON : Currently Growing up :running:
 
 ### Get in Touch
 

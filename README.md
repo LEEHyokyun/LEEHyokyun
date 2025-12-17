@@ -15,6 +15,11 @@
   <img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=flat&logo=oracle&logoColor=white"/>
 </p>  
 
+<img src="https://img.shields.io/badge/Experienced-blue?style=flat"/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+</p>
 ---
 
 ## 🧰 프레임워크

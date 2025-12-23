@@ -33,13 +33,9 @@
 ### 🔴 Fluent
 <div align="center">
 
-| Spring Boot | JPA (Hibernate) | MyBatis |
-|:--:|:--:|:--:|
-| ![](https://img.shields.io/badge/Spring%20Boot-4A4A4A?style=for-the-badge&logo=springboot&logoColor=white) | ![](https://img.shields.io/badge/JPA%20(Hibernate)-4A4A4A?style=for-the-badge&logo=hibernate&logoColor=white) | ![](https://img.shields.io/badge/MyBatis-4A4A4A?style=for-the-badge) |
-
-| JUnit | Redis |
-|:--:|:--:|
-| ![](https://img.shields.io/badge/JUnit-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Redis-4A4A4A?style=for-the-badge&logo=redis&logoColor=white) |
+| Spring Boot | JPA (Hibernate) | MyBatis | JUnit | Redis |
+|:--:|:--:|:--:|:--:|:--:|
+| ![](https://img.shields.io/badge/Spring%20Boot-4A4A4A?style=for-the-badge&logo=springboot&logoColor=white) | ![](https://img.shields.io/badge/JPA%20(Hibernate)-4A4A4A?style=for-the-badge&logo=hibernate&logoColor=white) | ![](https://img.shields.io/badge/MyBatis-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/JUnit-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Redis-4A4A4A?style=for-the-badge&logo=redis&logoColor=white) |
 
 </div>
 

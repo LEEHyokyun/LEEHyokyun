@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 언어
+## 💡언어
 
 ### 🔴 Fluent
 <div align="center">
@@ -71,7 +71,7 @@
 
 ## 🧠 Engineering
 
-### 🏗 Design & Architecture
+### Design & Architecture
 <div align="center">
 
 |                                      Clean Architecture                                     |                                           TDD                                          |                                             BDD                                            |
@@ -81,7 +81,7 @@
 
 </div>
 
-### 🧩 Domain Experience
+### Domains
 <div align="center">
 
 |                                         Finance                                         |                                              MIS                                             |                                        Back Office                                       |

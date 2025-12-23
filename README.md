@@ -56,28 +56,31 @@
 
 ---
 
-## 개발역량
-- Engineering & Design
-  - Clean Architecture
-  - Object-Oriented Programming (OOP)
-  - RDD / BDD / TDD
-  - Legacy System Improvement
-  - Automation & Batch Processing
-- 도메인 경력 
+## Engineering
+- Design
+  - Clean Architecturing
+    - RDD(Responsbility Driven Design) 
+    - OOP(Object-Oriented Programming)
+  - Drivend Design
+    - TDD(Test Driven Design)
+    - BDD(Behavior Driven Design)
+
+- Domains 
   - Finance
-  - Loan & Collateral
-  - Contract
+    - Loan
+    - Collateral
+    - Contract
   - MIS
   - Back Office
 
 ---
 
 ## 경력사항
-- **60Hertz**  
+- **60Hertz : 레거시시스템 개선 및 구축 / 자동화**
   - EAC Registry & Adjustment Legacy 시스템 개선 및 자동화 체계 구축  
   <sub>2025.04 ~ 2025.07</sub>
 
-- **교보DTS**  
+- **교보DTS :  레거시시스템 개선 및 구축 / FEP API / Batch Processing**  
   - KIDB 채권중개 차세대 시스템 구축  
   <sub>2024.04 ~ 2025.03</sub>
   - KB Bank (국민은행 인도네시아) 국외전산 차세대 시스템 구축  

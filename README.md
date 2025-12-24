@@ -96,7 +96,7 @@
  
 EAC Registry & Adjustment Legacy 시스템 개선 (_2025.04 ~ 2025.07_)
 
-### **교보DTS** : **레거시 시스템 · FEP API · Batch Processing**
+### **교보DTS** : **레거시 시스템 개선 및 구축 · FEP API · Batch Processing**
 
 KIDB 채권중개 차세대 시스템 구축 (_2024.04 ~ 2025.03_)
 

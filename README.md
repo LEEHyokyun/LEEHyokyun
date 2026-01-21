@@ -11,13 +11,13 @@
 ### 🔴 Fluent
 <div align="center">
 
-| ![](https://img.shields.io/badge/Java-4A4A4A?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/badge/JavaScript-4A4A4A?style=for-the-badge&logo=javascript&logoColor=black) | ![](https://img.shields.io/badge/SQL-4A4A4A?style=for-the-badge&logo=postgresql&logoColor=white) | ![](https://img.shields.io/badge/PL%2FSQL-4A4A4A?style=for-the-badge&logo=oracle&logoColor=white) |
+| ![](https://img.shields.io/badge/Java-4A4A4A?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/badge/JavaScript-4A4A4A?style=for-the-badge&logo=javascript&logoColor=black) | ![](https://img.shields.io/badge/SQL-4A4A4A?style=for-the-badge&logoColor=white) | ![](https://img.shields.io/badge/PL%2FSQL-4A4A4A?style=for-the-badge&logo=oracle&logoColor=white) |
 |:--:|:--:|:--:|:--:|
 | 자바 | 자바스크립트 | 대용량 데이터 쿼리 | 오라클 절차형 SQL |
 
 </div>
 
-### 🔵 Experienced
+### 🔵 Experienced 
 <div align="center">
 
 | ![](https://img.shields.io/badge/Node.js-4A4A4A?style=for-the-badge&logo=node.js&logoColor=white) | ![](https://img.shields.io/badge/Python-4A4A4A?style=for-the-badge&logo=python&logoColor=white) |
@@ -105,7 +105,9 @@ KB Bank (국민은행 인도네시아) 국외전산 차세대 구축 (_2023.01 ~
 ### **삼성전자** : **Middle Power Packaging**
 
 MP 301B (_2019.07 ~ 2021.07_)
+
 MP 2835 (_2019.01 ~ 2020.07_)
+
 MP 5630 (_2018.03 ~ 2019.01_)
 
 </div>

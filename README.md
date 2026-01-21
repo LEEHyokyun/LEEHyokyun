@@ -22,7 +22,7 @@
 
 | ![](https://img.shields.io/badge/Node.js-4A4A4A?style=for-the-badge&logo=node.js&logoColor=white) | ![](https://img.shields.io/badge/Python-4A4A4A?style=for-the-badge&logo=python&logoColor=white) |
 |:--:|:--:|
-| 노드 기반 nodeJs/자바스크립트 언어 | 범용 스크립트 언어 |
+| 서버 기반 노드언어 | 범용 스크립트 언어 |
 
 </div>
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 # 이효균  
-# 👨‍💻 개인프로젝트 진행 중  : ![Progress](https://img.shields.io/badge/Progress-████████░░%2075%25-red?style=for-the-badge&labelColor=2E2E2E)
+# 👨‍💻 개인프로젝트 진행 중  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2085%25-red?style=for-the-badge&labelColor=2E2E2E)
 
 
 ---
@@ -11,40 +11,40 @@
 ### 🔴 Fluent
 <div align="center">
 
-| Java | JavaScript | SQL | PL/SQL |
+| ![](https://img.shields.io/badge/Java-4A4A4A?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/badge/JavaScript-4A4A4A?style=for-the-badge&logo=javascript&logoColor=black) | ![](https://img.shields.io/badge/SQL-4A4A4A?style=for-the-badge&logo=postgresql&logoColor=white) | ![](https://img.shields.io/badge/PL%2FSQL-4A4A4A?style=for-the-badge&logo=oracle&logoColor=white) |
 |:--:|:--:|:--:|:--:|
-| ![](https://img.shields.io/badge/Java-4A4A4A?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/badge/JavaScript-4A4A4A?style=for-the-badge&logo=javascript&logoColor=black) | ![](https://img.shields.io/badge/SQL-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/PL%2FSQL-4A4A4A?style=for-the-badge&logo=oracle&logoColor=white) |
+| 자바 | 자바스크립트 | 대용량 데이터 쿼리 | 오라클 절차형 SQL |
 
 </div>
 
 ### 🔵 Experienced
 <div align="center">
 
-| Node.js | Python |
-|:--:|:--:|
 | ![](https://img.shields.io/badge/Node.js-4A4A4A?style=for-the-badge&logo=node.js&logoColor=white) | ![](https://img.shields.io/badge/Python-4A4A4A?style=for-the-badge&logo=python&logoColor=white) |
+|:--:|:--:|
+| 노드 기반 nodeJs/자바스크립트 언어 | 범용 스크립트 언어 |
 
 </div>
 
 ---
 
-## 🧩 프레임워크 & Libraries
+## 🧩 프레임워크
 
 ### 🔴 Fluent
 <div align="center">
 
-| Spring Boot | JPA (Hibernate) | MyBatis | JUnit | Redis |
+| ![](https://img.shields.io/badge/Spring%20Boot-4A4A4A?style=for-the-badge&logo=springboot&logoColor=white) | ![](https://img.shields.io/badge/JPA%20(Hibernate)-4A4A4A?style=for-the-badge&logo=hibernate&logoColor=white) | ![](https://img.shields.io/badge/MyBatis-4A4A4A?style=for-the-badge&logo=mybatis&logoColor=white) | ![](https://img.shields.io/badge/JUnit-4A4A4A?style=for-the-badge&logo=junit5&logoColor=white) | ![](https://img.shields.io/badge/Redis-4A4A4A?style=for-the-badge&logo=redis&logoColor=white) |
 |:--:|:--:|:--:|:--:|:--:|
-| ![](https://img.shields.io/badge/Spring%20Boot-4A4A4A?style=for-the-badge&logo=springboot&logoColor=white) | ![](https://img.shields.io/badge/JPA%20(Hibernate)-4A4A4A?style=for-the-badge&logo=hibernate&logoColor=white) | ![](https://img.shields.io/badge/MyBatis-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/JUnit-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Redis-4A4A4A?style=for-the-badge&logo=redis&logoColor=white) |
+| 스프링 부트 | 데이터베이스 ORM | SQL 매퍼 프레임워크 | 테스트 프레임워크 | 인메모리 데이터 저장소 |
 
 </div>
 
 ### 🔵 Experienced
 <div align="center">
 
-| Spring Security |
-|:--:|
-| ![](https://img.shields.io/badge/Spring%20Security-4A4A4A?style=for-the-badge&logo=springsecurity&logoColor=white) |
+| ![](https://img.shields.io/badge/Spring%20Security-4A4A4A?style=for-the-badge&logo=springsecurity&logoColor=white) | ![](https://img.shields.io/badge/Spring%20Batch-4A4A4A?style=for-the-badge&logo=spring&logoColor=white) |
+|:--:|:--:|
+| 스프링 시큐리티 | 스프링 배치 |
 
 </div>
 
@@ -53,13 +53,13 @@
 ## 🤝 협업 & Productivity
 <div align="center">
 
-| Jira | Confluence | Notion | Slack |
-|:--:|:--:|:--:|:--:|
 | ![](https://img.shields.io/badge/Jira-4A4A4A?style=for-the-badge&logo=jira&logoColor=white) | ![](https://img.shields.io/badge/Confluence-4A4A4A?style=for-the-badge&logo=confluence&logoColor=white) | ![](https://img.shields.io/badge/Notion-4A4A4A?style=for-the-badge&logo=notion&logoColor=white) | ![](https://img.shields.io/badge/Slack-4A4A4A?style=for-the-badge&logo=slack&logoColor=white) |
-
-| Discord | Figma | Google Docs | Backlog |
 |:--:|:--:|:--:|:--:|
+| 이슈 관리 | 문서 협업 및 지식 관리 | 문서 협업 및 자료 관리 | 실시간 커뮤니케이션 |
+
 | ![](https://img.shields.io/badge/Discord-4A4A4A?style=for-the-badge&logo=discord&logoColor=white) | ![](https://img.shields.io/badge/Figma-4A4A4A?style=for-the-badge&logo=figma&logoColor=white) | ![](https://img.shields.io/badge/Google%20Docs-4A4A4A?style=for-the-badge&logo=googledocs&logoColor=white) | ![](https://img.shields.io/badge/Backlog-4A4A4A?style=for-the-badge) |
+|:--:|:--:|:--:|:--:|
+| 커뮤니케이션 및 협업 | 자료기반 및 유관부서 협업 | 자료 및 문서기반 협업 | 프로젝트 관리 / 스프린트 |
 
 </div>
 
@@ -70,20 +70,18 @@
 ### Design & Architecture
 <div align="center">
 
-|                                      Clean Architecture                                     |                                           TDD                                          |                                             BDD                                            |
-| :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-| ![](https://img.shields.io/badge/Responsibility--Driven--Design/OOP-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Test--Driven--Development-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Behavior--Driven--Development-4A4A4A?style=for-the-badge) |
-
+| ![](https://img.shields.io/badge/RDD/OOP-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/BDD-4A4A4A?style=for-the-badge) |
+|:--:|:--:|:--:|
+| 책임 분리 / 객체지향 프로그래밍 | 테스트 주도 프로그래밍 | 행동 및 도메인 기반 프로그래밍 |
 
 </div>
 
 ### Domains
 <div align="center">
 
-|                                         Finance                                         |                                              MIS                                             |                                        Back Office                                       |
-| :-------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-| ![](https://img.shields.io/badge/Loan--Collateral--Contract-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Management--Information--System-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/User--Authority--Management-4A4A4A?style=for-the-badge) |
-
+| ![](https://img.shields.io/badge/Finance-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/MIS-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/BackOffice-4A4A4A?style=for-the-badge) |
+|:--:|:--:|:--:|
+| 여신 / 담보 / 계약 | 경영정보 | 임원 / 관리자 / 권한·부서 관리 |
 
 </div>
 
@@ -103,5 +101,11 @@ KIDB 채권중개 차세대 시스템 구축 (_2024.04 ~ 2025.03_)
 KB Bank (국민은행 인도네시아) 국외전산 차세대 구축 (_2023.01 ~ 2024.03_)
 
 교보증권 시스템 운영 및 유지보수  (_2022.07 ~ 2022.12_)
+
+### **삼성전자** : **Middle Power Packaging**
+
+MP 301B (_2019.07 ~ 2021.07_)
+MP 2835 (_2019.01 ~ 2020.07_)
+MP 5630 (_2018.03 ~ 2019.01_)
 
 </div>

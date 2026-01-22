@@ -35,7 +35,7 @@
 
 | ![](https://img.shields.io/badge/Spring%20Boot-4A4A4A?style=for-the-badge&logo=springboot&logoColor=white) | ![](https://img.shields.io/badge/JPA%20(Hibernate)-4A4A4A?style=for-the-badge&logo=hibernate&logoColor=white) | ![](https://img.shields.io/badge/MyBatis-4A4A4A?style=for-the-badge&logo=mybatis&logoColor=white) | ![](https://img.shields.io/badge/JUnit-4A4A4A?style=for-the-badge&logo=junit5&logoColor=white) | ![](https://img.shields.io/badge/Redis-4A4A4A?style=for-the-badge&logo=redis&logoColor=white) |
 |:--:|:--:|:--:|:--:|:--:|
-| 스프링 부트 | JPA/ORM | Query 매퍼 프레임워크 | 테스트 프레임워크 | 레디스 |
+| 스프링 부트 | JPA/ORM | 마이바티스/Raw(Massive) Query | 테스트 프레임워크 | 레디스 |
 
 </div>
 

@@ -39,7 +39,7 @@
 
 </div>
 
-### 🔵 Advanced 
+### 🟠 Advanced 
 <div align="center">
 
 | ![](https://img.shields.io/badge/Spring%20Batch-4A4A4A?style=for-the-badge&logo=spring&logoColor=white) |

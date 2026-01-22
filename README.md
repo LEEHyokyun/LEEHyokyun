@@ -1,7 +1,7 @@
 <div align="center">
 
 # 이효균  
-# 👨‍💻 개인프로젝트 진행 중  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2085%25-red?style=for-the-badge&labelColor=2E2E2E)
+# 👨‍💻 현재 개인프로젝트 진행 중(2025.08 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2085%25-red?style=for-the-badge&labelColor=2E2E2E)
 
 
 ---
@@ -35,11 +35,11 @@
 
 | ![](https://img.shields.io/badge/Spring%20Boot-4A4A4A?style=for-the-badge&logo=springboot&logoColor=white) | ![](https://img.shields.io/badge/JPA%20(Hibernate)-4A4A4A?style=for-the-badge&logo=hibernate&logoColor=white) | ![](https://img.shields.io/badge/MyBatis-4A4A4A?style=for-the-badge&logo=mybatis&logoColor=white) | ![](https://img.shields.io/badge/JUnit-4A4A4A?style=for-the-badge&logo=junit5&logoColor=white) | ![](https://img.shields.io/badge/Redis-4A4A4A?style=for-the-badge&logo=redis&logoColor=white) |
 |:--:|:--:|:--:|:--:|:--:|
-| 스프링 부트 | 데이터베이스 ORM | SQL 매퍼 프레임워크 | 테스트 프레임워크 | 인메모리 데이터 저장소 |
+| 스프링 부트 | 데이터베이스 ORM | SQL 매퍼 프레임워크 | 테스트 프레임워크 | 레디스 |
 
 </div>
 
-### 🔵 Experienced
+### 🔵 Advanced
 <div align="center">
 
 | ![](https://img.shields.io/badge/Spring%20Security-4A4A4A?style=for-the-badge&logo=springsecurity&logoColor=white) | ![](https://img.shields.io/badge/Spring%20Batch-4A4A4A?style=for-the-badge&logo=spring&logoColor=white) |
@@ -55,11 +55,11 @@
 
 | ![](https://img.shields.io/badge/Jira-4A4A4A?style=for-the-badge&logo=jira&logoColor=white) | ![](https://img.shields.io/badge/Confluence-4A4A4A?style=for-the-badge&logo=confluence&logoColor=white) | ![](https://img.shields.io/badge/Notion-4A4A4A?style=for-the-badge&logo=notion&logoColor=white) | ![](https://img.shields.io/badge/Slack-4A4A4A?style=for-the-badge&logo=slack&logoColor=white) |
 |:--:|:--:|:--:|:--:|
-| 이슈 관리 | 문서 협업 및 지식 관리 | 문서 협업 및 자료 관리 | 실시간 커뮤니케이션 |
+| 이슈 관리 | 문서 협업 및 지식 관리 | 문서 협업 및 자료 관리 | 커뮤니케이션 및 협업 |
 
 | ![](https://img.shields.io/badge/Discord-4A4A4A?style=for-the-badge&logo=discord&logoColor=white) | ![](https://img.shields.io/badge/Figma-4A4A4A?style=for-the-badge&logo=figma&logoColor=white) | ![](https://img.shields.io/badge/Google%20Docs-4A4A4A?style=for-the-badge&logo=googledocs&logoColor=white) | ![](https://img.shields.io/badge/Backlog-4A4A4A?style=for-the-badge) |
 |:--:|:--:|:--:|:--:|
-| 커뮤니케이션 및 협업 | 자료기반 및 유관부서 협업 | 자료 및 문서기반 협업 | 프로젝트 관리 / 스프린트 |
+| 커뮤니케이션 및 협업 | 유관부서 자료기반 협업 | 프로젝트 및 직무 수행 관리 |  개발 내역 및 스프린트 관리 |
 
 </div>
 
@@ -70,9 +70,9 @@
 ### Design & Architecture
 <div align="center">
 
-| ![](https://img.shields.io/badge/RDD/OOP-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/BDD-4A4A4A?style=for-the-badge) |
+| ![](https://img.shields.io/badge/CleanArchitecturing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/OOP-4A4A4A?style=for-the-badge) |
 |:--:|:--:|:--:|
-| 책임 분리 / 객체지향 프로그래밍 | 테스트 주도 프로그래밍 | 행동 및 도메인 기반 프로그래밍 |
+| 클린 아키텍칭 / 책임 분리 | 테스트 주도 프로그래밍 | 객체 지향 프로그래밍 |
 
 </div>
 
@@ -101,6 +101,14 @@ KIDB 채권중개 차세대 시스템 구축 (_2024.04 ~ 2025.03_)
 KB Bank (국민은행 인도네시아) 국외전산 차세대 구축 (_2023.01 ~ 2024.03_)
 
 교보증권 시스템 운영 및 유지보수  (_2022.07 ~ 2022.12_)
+
+### **개인 프로젝트** 
+
+한국소프트웨어기술진흥협회 교육 등 (_2022.01 ~ 2022.07_) 
+
+### **디스콰이엇** : **Disquiet 서비스 구축**
+
+Disquiet 서비스 구축 (_2021.07 ~ 2021.12_)
 
 ### **삼성전자** : **Middle Power Packaging**
 

@@ -39,12 +39,21 @@
 
 </div>
 
-### 🔵 Advanced
+### 🔵 Advanced 
 <div align="center">
 
-| ![](https://img.shields.io/badge/Spring%20Security-4A4A4A?style=for-the-badge&logo=springsecurity&logoColor=white) | ![](https://img.shields.io/badge/Spring%20Batch-4A4A4A?style=for-the-badge&logo=spring&logoColor=white) |
-|:--:|:--:|
-| 스프링 시큐리티 | 스프링 배치 |
+| ![](https://img.shields.io/badge/Spring%20Batch-4A4A4A?style=for-the-badge&logo=spring&logoColor=white) |
+|:--:|
+| 스프링 배치 |
+
+</div>
+
+### 🔵 Experienced
+<div align="center">
+
+| ![](https://img.shields.io/badge/Spring%20Security-4A4A4A?style=for-the-badge&logo=springsecurity&logoColor=white) | 
+|:--:|
+| 스프링 시큐리티 | 
 
 </div>
 

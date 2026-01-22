@@ -35,7 +35,7 @@
 
 | ![](https://img.shields.io/badge/Spring%20Boot-4A4A4A?style=for-the-badge&logo=springboot&logoColor=white) | ![](https://img.shields.io/badge/JPA%20(Hibernate)-4A4A4A?style=for-the-badge&logo=hibernate&logoColor=white) | ![](https://img.shields.io/badge/MyBatis-4A4A4A?style=for-the-badge&logo=mybatis&logoColor=white) | ![](https://img.shields.io/badge/JUnit-4A4A4A?style=for-the-badge&logo=junit5&logoColor=white) | ![](https://img.shields.io/badge/Redis-4A4A4A?style=for-the-badge&logo=redis&logoColor=white) |
 |:--:|:--:|:--:|:--:|:--:|
-| 스프링 부트 | 데이터베이스 ORM | SQL 매퍼 프레임워크 | 테스트 프레임워크 | 레디스 |
+| 스프링 부트 | JPA/ORM | Query 매퍼 프레임워크 | 테스트 프레임워크 | 레디스 |
 
 </div>
 
@@ -79,7 +79,7 @@
 ### Design & Architecture
 <div align="center">
 
-| ![](https://img.shields.io/badge/CleanArchitecturing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/OOP-4A4A4A?style=for-the-badge) |
+| ![](https://img.shields.io/badge/Clean%20Architecturing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/OOP-4A4A4A?style=for-the-badge) |
 |:--:|:--:|:--:|
 | 클린 아키텍칭 / 책임 분리 | 테스트 주도 프로그래밍 | 객체 지향 프로그래밍 |
 
@@ -88,7 +88,7 @@
 ### Domains
 <div align="center">
 
-| ![](https://img.shields.io/badge/Finance-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/MIS-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/BackOffice-4A4A4A?style=for-the-badge) |
+| ![](https://img.shields.io/badge/Finance-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/MIS-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Back%20Office-4A4A4A?style=for-the-badge) |
 |:--:|:--:|:--:|
 | 여신 / 담보 / 계약 | 경영정보 | 임원 / 관리자 / 권한·부서 관리 |
 

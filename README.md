@@ -81,7 +81,7 @@
 
 | ![](https://img.shields.io/badge/Clean%20Architecturing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/OOP-4A4A4A?style=for-the-badge) |
 |:--:|:--:|:--:|
-| 클린 아키텍칭 / 책임 분리 | 테스트 주도 프로그래밍 | 객체 지향 프로그래밍 |
+| clean/layered 아키텍칭 | 테스트 주도 프로그래밍 | 객체 지향 프로그래밍 |
 
 </div>
 
@@ -113,7 +113,7 @@ KB Bank (국민은행 인도네시아) 국외전산 차세대 구축 (_2023.01 ~
 
 교보증권 시스템 운영 및 유지보수  (_2022.07 ~ 2022.12_)
 
-### **개인 프로젝트** 
+### **교육 수료** 
 
 한국소프트웨어기술진흥협회 교육 등 (_2022.01 ~ 2022.07_) 
 

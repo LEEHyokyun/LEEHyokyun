@@ -59,16 +59,16 @@
 
 ---
 
-## 🤝 협업 & Productivity
+## 🤝 프로젝트 관리 & 커뮤니케이션
 <div align="center">
 
 | ![](https://img.shields.io/badge/Jira-4A4A4A?style=for-the-badge&logo=jira&logoColor=white) | ![](https://img.shields.io/badge/Confluence-4A4A4A?style=for-the-badge&logo=confluence&logoColor=white) | ![](https://img.shields.io/badge/Notion-4A4A4A?style=for-the-badge&logo=notion&logoColor=white) | ![](https://img.shields.io/badge/Slack-4A4A4A?style=for-the-badge&logo=slack&logoColor=white) |
 |:--:|:--:|:--:|:--:|
-| 이슈 관리 | 문서 협업 및 지식 관리 | 문서 협업 및 자료 관리 | 커뮤니케이션 및 협업 |
+| 지라 | 컨플루언스 | 노션 | 슬랙 |
 
 | ![](https://img.shields.io/badge/Discord-4A4A4A?style=for-the-badge&logo=discord&logoColor=white) | ![](https://img.shields.io/badge/Figma-4A4A4A?style=for-the-badge&logo=figma&logoColor=white) | ![](https://img.shields.io/badge/Google%20Docs-4A4A4A?style=for-the-badge&logo=googledocs&logoColor=white) | ![](https://img.shields.io/badge/Backlog-4A4A4A?style=for-the-badge) |
 |:--:|:--:|:--:|:--:|
-| 커뮤니케이션 및 협업 | 유관부서 자료기반 협업 | 프로젝트 및 직무 수행 관리 |  개발 내역 및 스프린트 관리 |
+| 디스코드 | 피그마 | 구글 독스 |  백로그 |
 
 </div>
 

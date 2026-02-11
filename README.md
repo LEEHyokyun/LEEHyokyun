@@ -80,7 +80,7 @@
 
 | ![](https://img.shields.io/badge/Clean%20Architecturing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Modeling-4A4A4A?style=for-the-badge) |
 |:--:|:--:|:--:|
-| clean/layered/OOP | 테스트 주도 프로그래밍 | Database/Systme 모델링 |
+| clean/layered/OOP | 테스트 주도 프로그래밍 | Database/System 모델링 |
 
 </div>
 

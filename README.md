@@ -1,8 +1,7 @@
 <div align="center">
 
 # 이효균  
-# 👨‍💻 현재 개인프로젝트 진행 중(2025.10 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2085%25-red?style=for-the-badge&labelColor=2E2E2E)
-
+# 👨‍💻 현재 개인프로젝트 진행 중(2025.10 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2090%25-red?style=for-the-badge&labelColor=2E2E2E)
 
 ---
 
@@ -79,9 +78,9 @@
 ### Design & Architecture
 <div align="center">
 
-| ![](https://img.shields.io/badge/Clean%20Architecturing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/OOP-4A4A4A?style=for-the-badge) |
+| ![](https://img.shields.io/badge/Clean%20Architecturing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Modeling-4A4A4A?style=for-the-badge) |
 |:--:|:--:|:--:|
-| clean/layered 아키텍칭 | 테스트 주도 프로그래밍 | 객체 지향 프로그래밍 |
+| clean/layered/OOP | 테스트 주도 프로그래밍 | Database/Systme 모델링 |
 
 </div>
 

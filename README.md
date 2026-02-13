@@ -78,9 +78,9 @@
 ### Design & Architecture
 <div align="center">
 
-| ![](https://img.shields.io/badge/Clean%20Architecturing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Modeling-4A4A4A?style=for-the-badge) |
+| ![](https://img.shields.io/badge/Clean%20Architecturing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Designing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) |
 |:--:|:--:|:--:|
-| clean/layered/OOP | 테스트 주도 프로그래밍 | Database/System 모델링 |
+| 아키텍칭(clean/layered/OOP) | 설계(데이터베이스/시스템) | 테스트 주도 프로그래밍 |
 
 </div>
 

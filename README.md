@@ -12,7 +12,7 @@
 
 | ![](https://img.shields.io/badge/Java-4A4A4A?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/badge/JavaScript-4A4A4A?style=for-the-badge&logo=javascript&logoColor=black) | ![](https://img.shields.io/badge/SQL-4A4A4A?style=for-the-badge&logoColor=white) | ![](https://img.shields.io/badge/PL%2FSQL-4A4A4A?style=for-the-badge&logo=oracle&logoColor=white) |
 |:--:|:--:|:--:|:--:|
-| 자바 | 자바스크립트 | 대용량 데이터 쿼리 | 오라클 절차형 SQL |
+| 자바 | 자바스크립트 | 대용량 데이터 쿼리 | 오라클 PL/SQL |
 
 </div>
 
@@ -21,7 +21,7 @@
 
 | ![](https://img.shields.io/badge/Node.js-4A4A4A?style=for-the-badge&logo=node.js&logoColor=white) | ![](https://img.shields.io/badge/Python-4A4A4A?style=for-the-badge&logo=python&logoColor=white) |
 |:--:|:--:|
-| 서버 기반 노드언어 | 범용 스크립트 언어 |
+| 노드JS | 파이썬 |
 
 </div>
 
@@ -80,7 +80,7 @@
 
 | ![](https://img.shields.io/badge/Clean%20Architecturing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Designing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) |
 |:--:|:--:|:--:|
-| 아키텍칭(clean/layered/OOP) | 설계(데이터베이스/시스템) | 테스트 주도 프로그래밍 |
+| 아키텍칭(clean/layered) | 설계(데이터베이스/Application) | 테스트 주도 프로그래밍 |
 
 </div>
 

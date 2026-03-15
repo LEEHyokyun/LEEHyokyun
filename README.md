@@ -10,7 +10,7 @@
 ### 🔴 Represents
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/> | <img src="https://i1.wp.com/www.techmixing.com/wp-content/uploads/2009/08/sql-stored-procedure-e1549017779977.jpg?fit=265%2C320&ssl=1" height="40"/> |
 |:--:|:--:|:--:|:--:|
 | 자바 | 자바스크립트 | Massive Query | 오라클 PL/SQL |
 

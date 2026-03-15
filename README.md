@@ -1,25 +1,25 @@
 <div align="center">
 
 # 이효균  
-# 👨‍💻 현재 개인프로젝트 진행 중(2025.10 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2090%25-red?style=for-the-badge&labelColor=2E2E2E)
+# 👨‍💻 현재 개인프로젝트 진행 중(2025.10 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2092%25-red?style=for-the-badge&labelColor=2E2E2E)
 
 ---
 
 ## 💡언어
 
-### 🔴 Fluent
+### 🔴 Represents
 <div align="center">
 
-| ![](https://img.shields.io/badge/Java-4A4A4A?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/badge/JavaScript-4A4A4A?style=for-the-badge&logo=javascript&logoColor=black) | ![](https://img.shields.io/badge/SQL-4A4A4A?style=for-the-badge&logoColor=white) | ![](https://img.shields.io/badge/PL%2FSQL-4A4A4A?style=for-the-badge&logo=oracle&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/> |
 |:--:|:--:|:--:|:--:|
-| 자바 | 자바스크립트 | 대용량 데이터 쿼리 | 오라클 PL/SQL |
+| 자바 | 자바스크립트 | Massive Query | 오라클 PL/SQL |
 
 </div>
 
-### 🔵 Experienced 
+### 🟠 Has 
 <div align="center">
 
-| ![](https://img.shields.io/badge/Node.js-4A4A4A?style=for-the-badge&logo=node.js&logoColor=white) | ![](https://img.shields.io/badge/Python-4A4A4A?style=for-the-badge&logo=python&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> |
 |:--:|:--:|
 | 노드JS | 파이썬 |
 
@@ -29,30 +29,21 @@
 
 ## 🧩 프레임워크
 
-### 🔴 Fluent
+### 🔴 Represents
 <div align="center">
 
-| ![](https://img.shields.io/badge/Spring%20Boot-4A4A4A?style=for-the-badge&logo=springboot&logoColor=white) | ![](https://img.shields.io/badge/JPA%20(Hibernate)-4A4A4A?style=for-the-badge&logo=hibernate&logoColor=white) | ![](https://img.shields.io/badge/MyBatis-4A4A4A?style=for-the-badge&logo=mybatis&logoColor=white) | ![](https://img.shields.io/badge/JUnit-4A4A4A?style=for-the-badge&logo=junit5&logoColor=white) | ![](https://img.shields.io/badge/Redis-4A4A4A?style=for-the-badge&logo=redis&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40"/> | <img src="https://mybatis.org/images/mybatis-logo.png" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/> |
 |:--:|:--:|:--:|:--:|:--:|
-| 스프링 부트 | JPA/ORM | 마이바티스/Raw(Massive) Query | 테스트 프레임워크 | 레디스 |
+| 스프링 부트 | JPA/ORM | 마이바티스 | Junit | 레디스 |
 
 </div>
 
-### 🟠 Advanced 
+### 🟠 Has 
 <div align="center">
 
-| ![](https://img.shields.io/badge/Spring%20Batch-4A4A4A?style=for-the-badge&logo=spring&logoColor=white) |
-|:--:|
-| 스프링 배치 |
-
-</div>
-
-### 🔵 Experienced
-<div align="center">
-
-| ![](https://img.shields.io/badge/Spring%20Security-4A4A4A?style=for-the-badge&logo=springsecurity&logoColor=white) | 
-|:--:|
-| 스프링 시큐리티 | 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> | <img src="https://spring.io/img/projects/spring-cloud.svg" height="40"/> | 
+|:--:|:--:|:--:|
+| 스프링 배치 | 스프링 시큐리티 | 스프링 클라우드 | 
 
 </div>
 
@@ -61,11 +52,11 @@
 ## 🤝 프로젝트 관리 & 커뮤니케이션
 <div align="center">
 
-| ![](https://img.shields.io/badge/Jira-4A4A4A?style=for-the-badge&logo=jira&logoColor=white) | ![](https://img.shields.io/badge/Confluence-4A4A4A?style=for-the-badge&logo=confluence&logoColor=white) | ![](https://img.shields.io/badge/Notion-4A4A4A?style=for-the-badge&logo=notion&logoColor=white) | ![](https://img.shields.io/badge/Slack-4A4A4A?style=for-the-badge&logo=slack&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/> |
 |:--:|:--:|:--:|:--:|
 | 지라 | 컨플루언스 | 노션 | 슬랙 |
 
-| ![](https://img.shields.io/badge/Discord-4A4A4A?style=for-the-badge&logo=discord&logoColor=white) | ![](https://img.shields.io/badge/Figma-4A4A4A?style=for-the-badge&logo=figma&logoColor=white) | ![](https://img.shields.io/badge/Google%20Docs-4A4A4A?style=for-the-badge&logo=googledocs&logoColor=white) | ![](https://img.shields.io/badge/Backlog-4A4A4A?style=for-the-badge) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" height="40"/> |
 |:--:|:--:|:--:|:--:|
 | 디스코드 | 피그마 | 구글 독스 |  백로그 |
 
@@ -78,16 +69,16 @@
 ### Design & Architecture
 <div align="center">
 
-| ![](https://img.shields.io/badge/Clean%20Architecturing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Designing-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/TDD-4A4A4A?style=for-the-badge) |
-|:--:|:--:|:--:|
-| 아키텍칭(clean/layered) | 설계(데이터베이스/Application) | 테스트 주도 프로그래밍 |
+| <span style="font-size:18px; font-weight:600; color:#2f81f7;">Clean Architecture</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">Designing</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">TDD</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">MSA</span> |
+|:--:|:--:|:--:|:--:|
+| 클린 아키텍칭(clean/layered) | 설계(데이터베이스/Application) | 테스트 코드 | MSA |
 
 </div>
 
 ### Domains
 <div align="center">
 
-| ![](https://img.shields.io/badge/Finance-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/MIS-4A4A4A?style=for-the-badge) | ![](https://img.shields.io/badge/Back%20Office-4A4A4A?style=for-the-badge) |
+| <span style="font-size:18px; font-weight:600; color:#2f81f7;">Finance</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">MIS</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">Back Office</span> |
 |:--:|:--:|:--:|
 | 여신 / 담보 / 계약 | 경영정보 | 임원 / 관리자 / 권한·부서 관리 |
 

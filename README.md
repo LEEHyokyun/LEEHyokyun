@@ -1,7 +1,7 @@
 <div align="center">
 
 # 이효균  
-# 👨‍💻 현재 개인프로젝트 진행 중(2025.10 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2092%25-red?style=for-the-badge&labelColor=2E2E2E)
+# 👨‍💻 현재 개인프로젝트 진행 중(2025.10 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2095%25-red?style=for-the-badge&labelColor=2E2E2E)
 
 ---
 
@@ -80,7 +80,7 @@
 
 | <span style="font-size:18px; font-weight:600; color:#2f81f7;">Finance</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">MIS</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">Back Office</span> |
 |:--:|:--:|:--:|
-| 여신 / 담보 / 계약 | 경영정보 | 임원 / 관리자 / 권한·부서 관리 |
+| 여신 / 담보 / 계약 | 경영정보 | 백오피스 |
 
 </div>
 

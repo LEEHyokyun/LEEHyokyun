@@ -52,11 +52,11 @@
 ## 🤝 프로젝트 관리 & 커뮤니케이션
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/> |
-|:--:|:--:|:--:|:--:|
-| 지라 | 컨플루언스 | 노션 | 슬랙 |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/> | <img src="https://cdn.simpleicons.org/redmine" height="40"/> |
+|:--:|:--:|:--:|:--:|:--:|
+| 지라 | 컨플루언스 | 노션 | 슬랙 | 레드마인 |
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" height="40"/> |
+| <img src="https://cdn.simpleicons.org/discord" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" height="40"/> |
 |:--:|:--:|:--:|:--:|
 | 디스코드 | 피그마 | 구글 독스 |  백로그 |
 

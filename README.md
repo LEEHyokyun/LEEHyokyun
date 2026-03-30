@@ -1,7 +1,7 @@
 <div align="center">
 
 # 이효균  
-# 👨‍💻 현재 개인프로젝트 진행 중(2025.10 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2095%25-red?style=for-the-badge&labelColor=2E2E2E)
+# 👨‍💻 현재 개인프로젝트 진행 중(2025.10 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2097%25-red?style=for-the-badge&labelColor=2E2E2E)
 
 ---
 
@@ -41,9 +41,9 @@
 ### 🟠 Has 
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> | <img src="https://spring.io/img/projects/spring-cloud.svg" height="40"/> | 
-|:--:|:--:|:--:|
-| 스프링 배치 | 스프링 시큐리티 | 스프링 클라우드 | 
+| <img height="40" height="933" alt="image" src="https://github.com/user-attachments/assets/cb7561c9-91e6-4a45-bcad-1c1b9664a89f" /> | <img height="40" height="343" alt="image" src="https://github.com/user-attachments/assets/5e01f83c-f263-4f84-97a1-8d7fbc923a09" /> | <img src="https://spring.io/img/projects/spring-cloud.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> |
+|:--:|:--:|:--:|:--:|
+| 스프링 배치 | 스프링 시큐리티 | 스프링 클라우드 | 도커 |
 
 </div>
 

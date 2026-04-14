@@ -1,7 +1,7 @@
 <div align="center">
 
 # 이효균  
-# 👨‍💻 현재 개인프로젝트 진행 중(2025.10 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2097%25-red?style=for-the-badge&labelColor=2E2E2E)
+# 👨‍💻 현재 개인프로젝트 진행 중(2025.10 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2099%25-red?style=for-the-badge&labelColor=2E2E2E)
 
 ---
 

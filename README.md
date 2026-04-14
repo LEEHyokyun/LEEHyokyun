@@ -32,7 +32,7 @@
 ### 🔴 Represents
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40"/> | <img src="https://mybatis.org/images/mybatis-logo.png" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40"/> | <img src="https://mybatis.org/images/mybatis-logo.png" height="40"/> | <img src="https://media.licdn.com/dms/image/v2/D4E22AQFsn7DPWeEepg/feedshare-shrink_800/B4EZpjUB0MKMAg-/0/1762602786513?e=2147483647&v=beta&t=z0Xm4aVC7LrmpNCEq25Msmurh2Z35GK9bs8_99lGCbo" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/> |
 |:--:|:--:|:--:|:--:|:--:|
 | 스프링 부트 | JPA/ORM | 마이바티스 | Junit | 레디스 |
 
@@ -69,9 +69,9 @@
 ### Design & Architecture
 <div align="center">
 
-| <span style="font-size:18px; font-weight:600; color:#2f81f7;">Clean Architecture</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">Designing</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">TDD</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">MSA</span> |
-|:--:|:--:|:--:|:--:|
-| 클린 아키텍칭(clean/layered) | 설계(데이터베이스/Application) | 테스트 코드 | MSA |
+| <span style="font-size:18px; font-weight:600; color:#2f81f7;">Clean Architecture</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">Designing</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">TDD</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">MSA</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">DEBUGGING</span> |
+|:--:|:--:|:--:|:--:|:--:|
+| 클린 아키텍칭(clean/layered) | 설계(데이터베이스/Application) | TDD | MSA | 시스템 로깅 & 모니터링 |
 
 </div>
 

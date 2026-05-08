@@ -1,7 +1,8 @@
 <div align="center">
 
 # 이효균  
-# 👨‍💻 현재 개인프로젝트 진행 중(2025.10 ~)  : ![Progress](https://img.shields.io/badge/Progress-█████████░%2099%25-red?style=for-the-badge&labelColor=2E2E2E)
+# 본 github readme는 임시 내용으로 향후 변경 예정
+# 👨‍💻 현재 개인프로젝트 완료 후 최종 보완 작업 진행 중 
 
 ---
 
@@ -41,9 +42,9 @@
 ### 🟠 Has 
 <div align="center">
 
-| <img height="40" height="933" alt="image" src="https://github.com/user-attachments/assets/cb7561c9-91e6-4a45-bcad-1c1b9664a89f" /> | <img height="40" height="343" alt="image" src="https://github.com/user-attachments/assets/5e01f83c-f263-4f84-97a1-8d7fbc923a09" /> | <img src="https://spring.io/img/projects/spring-cloud.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> |
-|:--:|:--:|:--:|:--:|
-| 스프링 배치 | 스프링 시큐리티 | 스프링 클라우드 | 도커 |
+| <img height="40" height="933" alt="image" src="https://github.com/user-attachments/assets/cb7561c9-91e6-4a45-bcad-1c1b9664a89f" /> | <img height="40" height="343" alt="image" src="https://github.com/user-attachments/assets/5e01f83c-f263-4f84-97a1-8d7fbc923a09" /> | <img src="https://spring.io/img/projects/spring-cloud.svg" height="40"/> | 
+|:--:|:--:|:--:|
+| 스프링 배치 | 스프링 시큐리티 | 스프링 클라우드 |
 
 </div>
 
@@ -69,9 +70,9 @@
 ### Design & Architecture
 <div align="center">
 
-| <span style="font-size:18px; font-weight:600; color:#2f81f7;">Clean Architecture</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">Designing</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">TDD</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">MSA</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">DEBUGGING</span> |
-|:--:|:--:|:--:|:--:|:--:|
-| 클린 아키텍칭(clean/layered) | 설계(데이터베이스/Application) | TDD | MSA | 시스템 로깅 & 모니터링 |
+| <span style="font-size:18px; font-weight:600; color:#2f81f7;">Clean Architecture</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">Designing</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">TDD</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">MSA</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">DEBUGGING</span> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/> |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 클린 아키텍칭(clean/layered) | 설계(데이터베이스/Application) | TDD | MSA | 시스템 로깅 & 모니터링 | 도커 | Kafka |
 
 </div>
 

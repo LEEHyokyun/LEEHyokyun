@@ -1,123 +1,68 @@
 <div align="center">
 
-# 이효균  
-# 본 github readme는 임시 내용으로 향후 변경 예정
-# 👨‍💻 현재 개인프로젝트 완료 후 최종 보완 작업 진행 중 
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=환영합니다!&fontSize=45&fontColor=ffffff&animation=fadeIn"
+/>
 
----
+# 이곳은 저의 다양한 개발 Universe 중 한 곳인 GitHub입니다. </br></br> Welcome to LEE Hyo Kyun's Github of my develop universe.
 
-## 💡언어
+<br/>
 
-### 🔴 Represents
+<img src="https://skillicons.dev/icons?i=java,javascript,spring,kafka,redis,postgresql,mysql,docker,gradle,github,git,linux" />
+
+</br></br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LEEHyokyun&theme=github_dark" width="100%" />
+
+<br/><br/>
+
+# 저의 개발 관심사를 주목해주십시오!
+
+<table>
+  <tr>
+    <td align="center"><h2>금융</h2></td>
+    <td align="center"><h2>자바</h2></td>
+    <td align="center"><h2>스프링</h2></td>
+    <td align="center"><h2>분산</h2></td>
+    <td align="center"><h2>대규모</h2></td>
+    <td align="center"><h2>클린 아키텍처</h2></td>
+    <td align="center"><h2>TDD</h2></td>
+    <td align="center"><h2>모니터링</h2></td>
+    <td align="center"><h2>디버깅</h2></td>
+    <td align="center" colspan="3"><h2>협업</h2></td>
+  </tr>
+</table>
+
+### 단일, 이벤트 기반 환경, 멀티 모듈, MSA 환경 등 다양한 프로젝트 환경
+### Kafka, Redis 등 외부 체계에 대한 고가용성, 내결함성, 멱등성
+### Docker 기반의 운영체계에 상관없는 테스트 및 실행 환경 구성 및 배포 자동화  
+### 문서화 중심 협업 및 유지보수 가능한 구조 설계
+### [오픈 소스 프로젝트와](https://github.com/LEEHyokyun/igloo)[ 오픈북까지](TBD)
+
+</br>
+</br>
+</br>
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/> | <img src="https://i1.wp.com/www.techmixing.com/wp-content/uploads/2009/08/sql-stored-procedure-e1549017779977.jpg?fit=265%2C320&ssl=1" height="40"/> |
-|:--:|:--:|:--:|:--:|
-| 자바 | 자바스크립트 | Massive Query | 오라클 PL/SQL |
+────────────────────────────────────────────────────────────────────
+
+✦ 🌌 ✦ 🚀 ✦ ⚙️ ✦ 📚 ✦
+
+────────────────────────────────────────────────────────────────────
 
 </div>
 
-### 🟠 Has 
-<div align="center">
+# 저의 다른 개발 Universe도 소개합니다! </br> Here is LEE Hyo Kyun's develop universe.
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> |
-|:--:|:--:|
-| 노드JS | 파이썬 |
+### 어느 누군가에겐 인연이자 기회가 될 수 있으면 좋겠습니다. 저의 개발 Universe를 방문해주셔서 감사드립니다.
+### Wish to be a chance, possibility for anyone! Thank you for your interests.
 
-</div>
+</br>
 
----
-
-## 🧩 프레임워크
-
-### 🔴 Represents
-<div align="center">
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40"/> | <img src="https://mybatis.org/images/mybatis-logo.png" height="40"/> | <img src="https://media.licdn.com/dms/image/v2/D4E22AQFsn7DPWeEepg/feedshare-shrink_800/B4EZpjUB0MKMAg-/0/1762602786513?e=2147483647&v=beta&t=z0Xm4aVC7LrmpNCEq25Msmurh2Z35GK9bs8_99lGCbo" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/> |
-|:--:|:--:|:--:|:--:|:--:|
-| 스프링 부트 | JPA/ORM | 마이바티스 | Junit | 레디스 |
-
-</div>
-
-### 🟠 Has 
-<div align="center">
-
-| <img height="40" height="933" alt="image" src="https://github.com/user-attachments/assets/cb7561c9-91e6-4a45-bcad-1c1b9664a89f" /> | <img height="40" height="343" alt="image" src="https://github.com/user-attachments/assets/5e01f83c-f263-4f84-97a1-8d7fbc923a09" /> | <img src="https://spring.io/img/projects/spring-cloud.svg" height="40"/> | 
-|:--:|:--:|:--:|
-| 스프링 배치 | 스프링 시큐리티 | 스프링 클라우드 |
-
-</div>
-
----
-
-## 🤝 프로젝트 관리 & 커뮤니케이션
-<div align="center">
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/> | <img src="https://cdn.simpleicons.org/redmine" height="40"/> |
-|:--:|:--:|:--:|:--:|:--:|
-| 지라 | 컨플루언스 | 노션 | 슬랙 | 레드마인 |
-
-| <img src="https://cdn.simpleicons.org/discord" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" height="40"/> |
-|:--:|:--:|:--:|:--:|
-| 디스코드 | 피그마 | 구글 독스 |  백로그 |
-
-</div>
-
----
-
-## 🧠 Engineering
-
-### Design & Architecture
-<div align="center">
-
-| <span style="font-size:18px; font-weight:600; color:#2f81f7;">Clean Architecture</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">Designing</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">TDD</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">MSA</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">DEBUGGING</span> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/> |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 클린 아키텍칭(clean/layered) | 설계(데이터베이스/Application) | TDD | MSA | 시스템 로깅 & 모니터링 | 도커 | Kafka |
-
-</div>
-
-### Domains
-<div align="center">
-
-| <span style="font-size:18px; font-weight:600; color:#2f81f7;">Finance</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">MIS</span> | <span style="font-size:18px; font-weight:600; color:#2f81f7;">Back Office</span> |
-|:--:|:--:|:--:|
-| 여신 / 담보 / 계약 | 경영정보 | 백오피스 |
-
-</div>
-
-
----
-
-<div>
-
-## 🧾 경력사항
-
-### **60Hertz** : **레거시 시스템 개선 및 자동화 구축**
- 
-EAC Registry & Adjustment Legacy 시스템 개선 (_2025.04 ~ 2025.07_)
-
-### **교보DTS** : **레거시 시스템 개선 및 구축 · FEP API · Batch Processing**
-
-KIDB 채권중개 차세대 시스템 구축 (_2024.04 ~ 2025.03_)
-
-KB Bank (국민은행 인도네시아) 국외전산 차세대 구축 (_2023.01 ~ 2024.03_)
-
-교보증권 시스템 운영 및 유지보수  (_2022.07 ~ 2022.12_)
-
-### **교육 수료** 
-
-한국소프트웨어기술진흥협회 교육 등 (_2022.01 ~ 2022.07_) 
-
-### **디스콰이엇** : **Disquiet 서비스 구축**
-
-Disquiet Application (_2021.07 ~ 2021.12_)
-
-### **삼성전자** : **Middle Power Packaging**
-
-MP 3030 (_2019.07 ~ 2021.07_)
-
-MP 2835 (_2019.01 ~ 2020.07_)
-
-MP 5630 (_2018.03 ~ 2019.01_)
+#### [저의 설계 과정을 자세히 보고 싶으시다면](https://velog.io/@gyrbs22)
+#### [저의 링크드인과 네트워킹 풀에 관심이 있으시다면](https://www.linkedin.com/in/hyokyun/)
+#### [저의 커리어와 프로젝트 이력을 훑어보고 싶으시다면]()
+#### [리멤버(이효균 검색)](https://profile.rememberapp.co.kr/home)
+#### [원티드(이효균 검색)](https://www.wanted.co.kr/)
 
 </div>

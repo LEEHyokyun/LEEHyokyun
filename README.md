@@ -57,8 +57,6 @@
 ### 어느 누군가에겐 인연이자 기회가 될 수 있으면 좋겠습니다. 저의 개발 Universe를 방문해주셔서 감사드립니다.
 ### Wish to be a chance, possibility for anyone! Thank you for your interests.
 
-</br>
-
 #### [저의 설계 과정을 자세히 보고 싶으시다면](https://velog.io/@gyrbs22)
 #### [저의 링크드인과 네트워킹 풀에 관심이 있으시다면](https://www.linkedin.com/in/hyokyun/)
 #### [저의 커리어와 프로젝트 이력을 훑어보고 싶으시다면_최신화 중]()

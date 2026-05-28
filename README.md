@@ -8,15 +8,17 @@
 
 <br/>
 
+
+
+<!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LEEHyokyun&theme=github_dark" width="100%" />-->
+
+<!--<br/><br/>-->
+
+# 튼튼한 기본기, 깊은 전문성을 지향하고 있습니다.
+
 <img src="https://skillicons.dev/icons?i=java,javascript,spring,kafka,redis,postgresql,mysql,docker,gradle,github,git,linux" />
 
 </br></br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LEEHyokyun&theme=github_dark" width="100%" />
-
-<br/><br/>
-
-# 튼튼한 기본기, 깊은 전문성을 지향하는 개발자
 
 <table>
   <tr>

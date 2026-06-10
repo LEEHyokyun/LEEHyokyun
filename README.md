@@ -61,7 +61,7 @@
 
 #### [저의 설계 과정을 자세히 보고 싶으시다면](https://velog.io/@gyrbs22)
 #### [저의 링크드인을 보고 싶으시다면](https://www.linkedin.com/in/hyokyun/)
-#### [저의 커리어와 프로젝트 이력을 훑어보고 싶으시다면_최신화 중](https://leehyokyun.github.io/)
+#### [저의 성장과정 및 가치관을 자세히 보고 싶으시다면_최신화 중](https://leehyokyun.github.io/)
 #### [리멤버(이효균 검색)](https://profile.rememberapp.co.kr/home)
 #### [원티드(이효균 검색)](https://www.wanted.co.kr/)
 

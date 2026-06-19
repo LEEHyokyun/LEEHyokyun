@@ -4,7 +4,7 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=환영합니다!&fontSize=45&fontColor=ffffff&animation=fadeIn"
 />
 
-# 이곳은 저의 다양한 개발 Universe 중 한 곳인 GitHub입니다. </br></br> Welcome to LEE Hyo Kyun's Github of my develop universe.
+# 저의 Github에 방문해주셔서 감사드립니다. </br></br> Welcome to LEE Hyo Kyun's Github.
 
 <br/>
 
@@ -54,14 +54,10 @@
 
 </div>
 
-# 저의 다른 개발 Universe도 소개합니다! </br> Here is LEE Hyo Kyun's develop universe.
-
-### 어느 누군가에겐 인연이자 기회가 될 수 있으면 좋겠습니다. 저의 개발 Universe를 방문해주셔서 감사드립니다.
-### Wish to be a chance, possibility for anyone! Thank you for your interests.
+# 저의 개발 성장기를 하나의 Universe화하여 관리하고 있습니다.</br> Feel free to visit LEE Hyo Kyun's universe as a developer.
 
 #### [저의 설계 과정을 자세히 보고 싶으시다면](https://velog.io/@gyrbs22)
 #### [저의 링크드인을 보고 싶으시다면](https://www.linkedin.com/in/hyokyun/)
-#### [저의 성장과정 및 가치관을 자세히 보고 싶으시다면_최신화 중](https://leehyokyun.github.io/)
 #### [리멤버(이효균 검색)](https://profile.rememberapp.co.kr/home)
 #### [원티드(이효균 검색)](https://www.wanted.co.kr/)
 

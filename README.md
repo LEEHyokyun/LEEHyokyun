@@ -1,10 +1,16 @@
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=환영합니다!&fontSize=45&fontColor=ffffff&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=HYOKYUN&fontSize=45&fontColor=ffffff&animation=fadeIn"
 />
 
-# 저의 Github에 방문해주셔서 감사드립니다. </br></br> Welcome to LEE Hyo Kyun's Github.
+<img src="https://skillicons.dev/icons?i=java,javascript,spring,kafka,redis,postgresql,mysql,docker,gradle,github,git,linux" />
+
+</br></br>
+<!--# 저의 Github에 방문해주셔서 감사드립니다. </br></br> Welcome to LEE Hyo Kyun's Github.-->
+
+## 설계의 근거는 상식이 아닌 자원과 비용
+## 슈퍼맨처럼 빛나기보다 다크나이트처럼 보이지 않는 곳에서 시스템을 지탱하다
 
 <br/>
 
@@ -14,32 +20,27 @@
 
 <!--<br/><br/>-->
 
-# 튼튼한 기본기, 깊은 전문성을 지향하고 있습니다.
+<!--# 튼튼한 기본기, 깊은 전문성을 지향하고 있습니다.-->
 
-<img src="https://skillicons.dev/icons?i=java,javascript,spring,kafka,redis,postgresql,mysql,docker,gradle,github,git,linux" />
-
-</br></br>
-
-<table>
+<!-- <table>
   <tr>
-    <td align="center"><h2>금융</h2></td>
-    <td align="center"><h2>자바</h2></td>
-    <td align="center"><h2>스프링</h2></td>
-    <td align="center"><h2>분산</h2></td>
-    <td align="center"><h2>대규모</h2></td>
+    <td align="center"><h2>분산환경</h2></td>
+    <td align="center"><h2>동시성</h2></td>
     <td align="center"><h2>클린 아키텍처</h2></td>
     <td align="center"><h2>TDD</h2></td>
     <td align="center"><h2>모니터링</h2></td>
     <td align="center"><h2>디버깅</h2></td>
     <td align="center" colspan="3"><h2>협업</h2></td>
   </tr>
-</table>
+</table> -->
 
+<!--
 ### 단일 환경, 이벤트 기반 환경, 멀티 모듈 환경, MSA 환경 등 다양한 프로젝트 환경
 ### Kafka, Redis 등 외부 체계에 대한 고가용성, 내결함성, 멱등성
 ### Docker 기반의 운영체계에 상관없는 테스트 및 실행 환경 구성 및 배포 자동화  
 ### 문서화(C4) 중심 협업 및 유지보수 가능한 구조 설계
 ### [모든 백엔드 엔지니어를 위한 오픈북 프로젝트](https://github.com/LEEHyokyun/Open-Source-Open-Book-Project-Intro)
+-->
 
 </br>
 </br>

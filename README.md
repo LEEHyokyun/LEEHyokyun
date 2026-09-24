@@ -38,8 +38,8 @@
 ### 단일 환경, 이벤트 기반 환경, 멀티 모듈 환경, MSA 환경 등 다양한 프로젝트 환경
 ### Kafka, Redis 등 외부 체계에 대한 고가용성, 내결함성, 멱등성
 ### Docker 기반의 운영체계에 상관없는 테스트 및 실행 환경 구성 및 배포 자동화  
-### 문서화 중심 협업 및 유지보수 가능한 구조 설계
-### [오픈 소스 및 오픈북 프로젝트까지](https://github.com/LEEHyokyun/Open-Source-Open-Book-Project-Intro)
+### 문서화(C4) 중심 협업 및 유지보수 가능한 구조 설계
+### [모든 백엔드 엔지니어를 위한 오픈북 프로젝트](https://github.com/LEEHyokyun/Open-Source-Open-Book-Project-Intro)
 
 </br>
 </br>

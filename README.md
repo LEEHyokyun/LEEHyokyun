@@ -10,7 +10,7 @@
 <!--# 저의 Github에 방문해주셔서 감사드립니다. </br></br> Welcome to LEE Hyo Kyun's Github.-->
 
 ## 설계의 근거는 상식이 아닌 자원과 비용
-## 보이지 않는 곳에서 묵묵하게 시스템을 지탱하다
+## 보이지 않는 곳에서 묵묵하게 시스템을 지탱하고 있습니다.
 
 <br/>
 
@@ -42,7 +42,7 @@
 ### [모든 백엔드 엔지니어를 위한 오픈북 프로젝트](https://github.com/LEEHyokyun/Open-Source-Open-Book-Project-Intro)
 -->
 
-</br>
+<!-- </br>
 </br>
 </br>
 <div align="center">
@@ -53,13 +53,15 @@
 
 ────────────────────────────────────────────────────────────────────
 
-</div>
+</div> -->
 
+<!--
 # 저의 성장기록들을 하나의 Universe화하여 관리하고 있습니다.</br> Feel free to visit LEE Hyo Kyun's universe as a developer.
 
 #### [저의 설계 과정을 자세히 보고 싶으시다면](https://velog.io/@gyrbs22)
 #### [저의 성장 과정을 자세히 보고 싶으시다면](https://portfolio-frontend-i7q3.onrender.com/)
 #### [저의 링크드인을 보고 싶으시다면](https://www.linkedin.com/in/hyokyun/)
+-->
 <!--#### [리멤버(이효균 검색)](https://profile.rememberapp.co.kr/home)
 #### [원티드(이효균 검색)](https://www.wanted.co.kr/)
 -->
